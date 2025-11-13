@@ -1,4 +1,4 @@
-# power-bi-covid-nigeria-dashboard
+# Power-BI-covid-nigeria-dashboard
 Find attached the files that I used for the analysis and visualization 
 "Built a comprehensive, interactive dashboard to analyze and visualize the impact of COVID-19 in Nigeria.
 
